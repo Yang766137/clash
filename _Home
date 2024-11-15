@@ -14,7 +14,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ruleset=🎯 全球直连,https://github.com/Yang766137/clash/raw/refs/heads/main/Direct.list
 ruleset=🎯 全球直连,[]GEOIP,CN,no-resolve
-ruleset=🏠 GoHome，
+ruleset=🏠 GoHome，IP-CIDR,192.168.31.0/24,no-resolve
 ruleset=🐟 漏网之鱼,[]FINAL
 
 
